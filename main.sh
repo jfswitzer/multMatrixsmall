@@ -1,2 +1,2 @@
 #!/bin/sh
-python small.py
+python multMatrixsmall/small.py
